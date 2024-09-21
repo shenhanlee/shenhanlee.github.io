@@ -68,7 +68,6 @@ Academic Honours
 * 2005: London City & Guild's College Association Bursary for Engineering Research
 * 2004: Overseas Medical Undergraduate Scholarship, British Top Universities Programme, Public Service Department, Government of Malaysia
 * 2004: Honorary Undergraduate Scholarship, Cambridge Commonwealth Trust, University of Cambridge
-* 2004: Edexcel GCE A-Levels (4A), International Education Centre, Universiti Teknologi MARA (UiTM)
 * 2004: Matriculation (EE) Offer, Christ's College, University of Cambridge 
 * 2002: Pre-University GCE A-Level Scholarship at International Education Centre, Universiti Teknologi MARA (UiTM), Public Service Department, Government of Malaysia
 * 2001: Best Student (12 1A), Malaysian Certificate of Education (Sijil Pelajaran Malaysia)
