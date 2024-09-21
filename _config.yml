@@ -48,7 +48,7 @@ author:
 
   # Social media
 
-  facebook         : # shenhan.lee
+  facebook         : # "shenhan.lee"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # "shenhanlee"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # shenhanlee
+  twitter          : # "shenhanlee"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
