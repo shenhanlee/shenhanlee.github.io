@@ -18,7 +18,7 @@ Education
 * Master of Arts (MA), Christ's College, University of Cambridge, 2011
 * Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Part I Medical & Veterinary Sciences Tripos & Part II Natural Sciences Tripos (Pharmacology), Christ's College, University of Cambridge, 2007
 
-Work experience
+Work Experience
 ======
 * June 2023 - now: Resident, Otorhinolaryngology-Head & Neck Surgery (ORL-HNS)
   * School of Medical Sciences, Universiti Sains Malaysia
@@ -55,7 +55,7 @@ Work experience
 
 * October 2013: Medical Student Elective, Head & Neck Surgery
   * Head & Neck Service, Division of Surgical Oncology, National Cancer Center Singapore
-  * Supervisor: Clinical Associate Professor Tan Hiang Khoon 
+  * Supervisor: Clinical Associate Professor Hiang Khoon Tan 
 
 Academic Honours
 =====
@@ -68,7 +68,10 @@ Academic Honours
 * 2005: London City & Guild's College Association Bursary for Engineering Research
 * 2004: Overseas Medical Undergraduate Scholarship, British Top Universities Programme, Public Service Department, Government of Malaysia
 * 2004: Honorary Undergraduate Scholarship, Cambridge Commonwealth Trust, University of Cambridge
+* 2004: Edexcel GCE A-Levels (4A), International Education Centre, Universiti Teknologi MARA (UiTM)
+* 2004: Matriculation (EE) Offer, Christ's College, University of Cambridge 
 * 2002: Pre-University GCE A-Level Scholarship at International Education Centre, Universiti Teknologi MARA (UiTM), Public Service Department, Government of Malaysia
+* 2001: Best Student (12 1A), Malaysian Certificate of Education (Sijil Pelajaran Malaysia)
 
 Publications
 ======
