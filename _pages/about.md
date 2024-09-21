@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a medical doctor with the Ministry of Health, Malaysia and a Resident in Otorhinolaryngology-Head & Neck Surgery at School of Medical Sciences, Universiti Sains Malaysia, Kelantan, Malaysia. 
+I am a medical doctor with the Ministry of Health, Malaysia and currently, a Master of Medicine student (Resident) in Otorhinolaryngology-Head & Neck Surgery (ORL-HNS) at School of Medical Sciences, Universiti Sains Malaysia, Kelantan, Malaysia. 
 
-I read preclinical medicine at Christ's College, University of Cambridge and completed my undergraduate clinical medicine training at Barts & The London School of Medicine & Dentistry, Queen Mary University of London. During my medical studies, I obtained a PhD degree in Oncology from the University of Cambridge under the supervision of Professor John Griffiths at the Cancer Research UK Cambridge Institute.
+My current research interests are on the application of large language models in healthcare and head and neck cancers. My other research interests include cancer metabolism and the tumour microenvironment. 
+
+I read pre-clinical medicine and Part II Natural Sciences (Pharmacology) at Christ's College, University of Cambridge before completing my undergraduate medical training at Barts & The London School of Medicine & Dentistry, Queen Mary University of London. During my clinical studies at Barts, I intercalated for a PhD degree in Oncology at the University of Cambridge under the supervision of Professor John Griffiths at the Cancer Research UK Cambridge Institute and as a visiting MB-PhD student at the Cambridge MB-PhD program.
+
 
 
 A data-driven personal website
