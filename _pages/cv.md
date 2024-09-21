@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia (in progress)
+* Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
+* Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
+* Doctor of Philosophy (PhD) in Oncology (Molecular Imaging), Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
+* Master of Arts (MA), Christ's College, University of Cambridge, 2011
+* Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Part I Medical & Veterinary Sciences Tripos & Part II Natural Sciences Tripos (Pharmacology), Christ's College, University of Cambridge, 2007
 
 Work experience
 ======
