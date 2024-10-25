@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "MRI & MRS assessment of the role of the tumour microenvironment in response to therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2011-05-12-MRI & MRS Assessment of Tumour Microenvronment in Response to Therapy
+excerpt: 'Review paper on the role of magnetic resonance imaging (MRI) and spectroscopic (MRS) techniques to assess the tumour microenvironment in response to therapy.'
+date: 2011-05-12
+venue: 'NMR in Biomedicine'
+paperurl: 'http://shenhanlee.github.io/files/Bell LK, Griffiths JR_NMR in Biomedicine_2011.pdf'
+citation: 'Bell KL, Ainsworth NL, Lee SH, Griffiths JR. (2011). &quot;MRI & MRS assessment of the tumour microenvironment in response to therapy.&quot; <i>NMR in Biomedicine</i>. 24(6):612-35.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+MRI and MRS techniques are being applied to the characterisation of various aspects of the tumour microenvironment and to the assessment of tumour response to therapy. For example, kinetic parameters describing tumour blood vessel flow and permeability can be derived from dynamic contrast-enhanced MRI data and have been correlated with a positive tumour response to antivascular therapies. The ongoing development and validation of noninvasive, high-resolution anatomical/molecular MR techniques will equip us with the means to detect specific tumour biomarkers early on, and then to monitor the efficacy of cancer treatments efficiently and reliably, all within a clinically relevant time frame. Reliable tumour microenvironment imaging biomarkers will provide obvious advantages by enabling tumour-specific treatment tailoring and potentially improving patient outcome. However, for routine clinical application across many disease types, such imaging biomarkers must be quantitative, robust, reproducible, sufficiently sensitive and cost-effective. These characteristics are all difficult to achieve in practice, but image biomarker development and validation have been greatly facilitated by an increasing number of pertinent preclinical in vivo cancer models. Emphasis must now be placed on discovering whether the preclinical results translate into an improvement in patient care and, therefore, overall survival.
+
+Copyright © 2011 John Wiley & Sons, Ltd.
