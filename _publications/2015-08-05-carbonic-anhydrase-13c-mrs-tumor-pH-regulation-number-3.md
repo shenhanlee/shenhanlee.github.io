@@ -8,7 +8,7 @@ date: 2015-08-05
 venue: 'Cancer Research'
 paperurl: 'https://shenhanlee.github.io/files/Gallagher FA, Brindle KM_Cancer Research_2015.pdf'
 citation: '
-Gallagher FA, Sladen H, Kettunen MI, Serrao EM, Rodrigues TB, Wright A, Gill AB, McGuire S, Booth TC, Boren J, McIntyre A, Miller JL, Lee SH, Honess D, Day SE, Hu DE, Howat WJ, Harris AL, Brindle KM (2015). &quot;Carbonic Anhydrase Activity Monitored In Vivo by Hyperpolarized 13C Magnetic Resonance Spectroscopy Demonstrates Its Importance for pH Regulation in Tumors.&quot; <i>Cancer Research</i>. 75(10):4109-4118.[https://doi.org/10.1158/0008-5472.CAN-15-0857](https://doi.org/10.1158/0008-5472.CAN-15-0857) '
+Gallagher FA, Sladen H, Kettunen MI, Serrao EM, Rodrigues TB, Wright A, Gill AB, McGuire S, Booth TC, Boren J, McIntyre A, Miller JL, Lee SH, Honess D, Day SE, Hu DE, Howat WJ, Harris AL, Brindle KM (2015). &quot;Carbonic Anhydrase Activity Monitored In Vivo by Hyperpolarized 13C Magnetic Resonance Spectroscopy Demonstrates Its Importance for pH Regulation in Tumors.&quot; <i>Cancer Research</i>. 75(10):4109-4118.[doi:10.1158/0008-5472.CAN-15-0857](https://doi.org/10.1158/0008-5472.CAN-15-0857) '
 ---
 
 Ferdia A. Gallagher <sup>1,*</sup>, Helen Sladen <sup>2</sup>, Mikko I. Kettunen <sup>2</sup>, Eva M. Serrao <sup>2</sup>, Tiago B. Rodrigues <sup>2</sup>, Alan Wright <sup>2</sup>, Andrew B. Gill <sup>2</sup>, Sarah McGuire <sup>2</sup>, Thomas C. Booth <sup>2</sup>, Joan Boren <sup>2</sup>, Alan McIntyre <sup>4</sup>, Jodi L. Miller <sup>2</sup>, Shen-Han Lee <sup>2</sup>, Davina Honess <sup>2</sup>, Sam E. Day <sup>2</sup>, De-En Hu <sup>2</sup>, William J. Howat <sup>2</sup>, Adrian L. Harris <sup>4</sup>, Kevin M. Brindle <sup>2</sup>
