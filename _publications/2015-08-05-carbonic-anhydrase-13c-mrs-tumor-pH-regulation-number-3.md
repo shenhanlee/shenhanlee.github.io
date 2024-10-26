@@ -3,7 +3,7 @@ title: "Carbonic Anhydrase Activity Monitored <italic>In Vivo</italic> by Hyperp
 collection: publications
 category: manuscripts
 permalink: /publication/2015-08-05-carbonic-anhydrase-13C-MRS-tumor-pH-regulation-number-3
-excerpt: '<italic>In vivo</italic> measurement of functional activity of Carbonic Anhydrase IX (CAIX) in colorectal tumor models with hyperpolarized H<sup>13</sup>CO<sub>2</sub> using <sup>13</sup>C magnetic resonance spectroscopy magnetization transfer measurements showed paradoxical lowering of enzyme activity due to the more acidic tumour extracellular pH which inhibited the enzyme activity.'
+excerpt: 'This study measured the in vivo functional activity of Carbonic Anhydrase IX (CAIX) in colorectal tumor models with hyperpolarized H<sup>13</sup>CO<sub>2</sub> using <sup>13</sup>C magnetic resonance spectroscopy magnetization transfer measurements. The study demonstrated paradoxical lowering of enzyme activity due to the more acidic tumour extracellular pH.'
 date: 2015-08-05
 venue: 'Cancer Research'
 paperurl: 'https://shenhanlee.github.io/files/Gallagher FA, Brindle KM_Cancer Research_2015.pdf'
