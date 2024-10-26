@@ -16,4 +16,6 @@ Dominick J. O. McIntyre <sup>1,*</sup>, Basetti Madhu <sup>1</sup>, Shen-Han Lee
 
 Magnetic resonance spectroscopy allows noninvasive in vivo measurements of biochemical information from living systems, ranging from cultured cells through experimental animals to humans. Studies of biopsies or extracts offer deeper insights by detecting more metabolites and resolving metabolites that cannot be distinguished in vivo. The pharmacokinetics of certain drugs, especially fluorinated drugs, can be directly measured in vivo. This review briefly describes these methods and their applications to cancer metabolism, including glycolysis, hypoxia, bioenergetics, tumor pH, and tumor responses to radiotherapy and chemotherapy.
 
+Copyright © 2012 Radiation Research Society.
+
 DOI:[10.1667/rr2903.1](https://doi.org/10.1667/rr2903.1)
