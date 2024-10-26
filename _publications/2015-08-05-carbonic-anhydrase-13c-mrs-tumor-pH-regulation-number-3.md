@@ -3,7 +3,7 @@ title: "Carbonic Anhydrase Activity Monitored In Vivo by Hyperpolarized 13C-Magn
 collection: publications
 category: manuscripts
 permalink: /publication/2015-08-05-carbonic-anhydrase-13C-MRS-tumor-pH-regulation-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Measurement of functional activity of Carbonic Anhydrase IX (CAIX) in colorectal tumor models with hyperpolarized H<sup>13</sup>CO<sub>2</sub> using <sup>13</sup>C magnetic resonance spectroscopy magnetization transfer measurements showed paradoxical lowering of enzyme activity due to the more acidic tumour extracellular pH which inhibited the enzyme activity.'
 date: 2015-08-05
 venue: 'Cancer Research'
 paperurl: 'https://shenhanlee.github.io/files/Gallagher FA, Brindle KM_Cancer Research_2015.pdf'
@@ -11,25 +11,7 @@ citation: '
 Gallagher FA, Sladen H, Kettunen MI, Serrao EM, Rodrigues TB, Wright A, Gill AB, McGuire S, Booth TC, Boren J, McIntyre A, Miller JL, Lee SH, Honess D, Day SE, Hu DE, Howat WJ, Harris AL, Brindle KM (2015). &quot;Carbonic Anhydrase Activity Monitored In Vivo by Hyperpolarized 13C Magnetic Resonance Spectroscopy Demonstrates Its Importance for pH Regulation in Tumors.&quot; <i>Cancer Research</i>. 75(10):4109-4118.'
 ---
 
-Ferdia A. Gallagher <sup>1</sub>, 
-Helen Sladen <sup>2</sub>, 
-Mikko I. Kettunen <sup>2</sub>, 
-Eva M. Serrao <sup>2</sub>, 
-Tiago B. Rodrigues <sup>2</sub>, 
-Alan Wright <sup>2</sub>, 
-Andrew B. Gill <sup>2</sub>, 
-Sarah McGuire <sup>2</sub>, 
-Thomas C. Booth <sup>2</sub>, 
-Joan Boren <sup>2</sub>, 
-Alan McIntyre <sup>4</sub>, 
-Jodi L. Miller <sup>2</sub>, 
-Shen-Han Lee <sup>2</sub>, 
-Davina Honess <sup>2</sub>, 
-Sam E. Day <sup>2</sub>, 
-De-En Hu <sup>2</sub>, 
-William J. Howat <sup>2</sub>, 
-Adrian L. Harris <sup>4</sub>, 
-Kevin M. Brindle <sup>2</sub>
+Ferdia A. Gallagher <sup>1</sup>, Helen Sladen <sup>2</sup>, Mikko I. Kettunen <sup>2</sup>, Eva M. Serrao <sup>2</sup>, Tiago B. Rodrigues <sup>2</sup>, Alan Wright <sup>2</sup>, Andrew B. Gill <sup>2</sup>, Sarah McGuire <sup>2</sup>, Thomas C. Booth <sup>2</sup>, Joan Boren <sup>2</sup>, Alan McIntyre <sup>4</sup>, Jodi L. Miller <sup>2</sup>, Shen-Han Lee <sup>2</sup>, Davina Honess <sup>2</sup>, Sam E. Day <sup>2</sup>, De-En Hu <sup>2</sup>, William J. Howat <sup>2</sup>, Adrian L. Harris <sup>4</sup>, Kevin M. Brindle <sup>2</sup>
 
 <sup>1</sup> Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing Centre, Cambridge, United Kingdom. Department of Radiology, University of Cambridge, Addenbrooke's Hospital, Cambridge, United Kingdom.  
 <sup>2</sup> Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing Centre, Cambridge, United Kingdom.  
