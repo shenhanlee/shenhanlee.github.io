@@ -7,7 +7,7 @@ excerpt: 'Review paper on magnetic resonance spectroscopy methods and their appl
 date: 2012-03-08
 venue: 'Radiation Research'
 paperurl: 'http://shenhanlee.github.io/files/McIntyre DJO, Basetti M, Lee SH, Griffiths JR_Radiation Research_2012.pdf'
-citation: 'McIntyre DJ, Madhu B, Lee SH, Griffiths JR. (2010). &quot;Magnetic resonance spectroscopy of cancer metabolism and response to therapy.&quot; <i>Radiation Research</i>. 177(4):398-435.'
+citation: 'McIntyre DJ, Madhu B, Lee SH, Griffiths JR. (2012). &quot;Magnetic resonance spectroscopy of cancer metabolism and response to therapy.&quot; <i>Radiation Research</i>. 177(4):398-435.'
 ---
 Dominick J. O. McIntyre, Basetti Madhu, Shen-Han Lee, John R. Griffiths
 
