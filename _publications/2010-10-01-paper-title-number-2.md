@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Magnetic resonance spectroscopy of cancer metabolism and response to therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2012-03-08-Magnetic resonance spectroscopy cancer metabolism response therapy-number-2
+excerpt: 'Review paper on magnetic resonance spectroscopy methods and their applications to cancer metabolism and tumour responses to radiotherapy and chemotherapy'
+date: 2012-03-08
+venue: 'Radiation Research'
+paperurl: 'http://shenhanlee.github.io/files/McIntyre DJO, Basetti M, Lee SH, Griffiths JR_Radiation Research_2012.pdf'
+citation: 'McIntyre DJ, Madhu B, Lee SH, Griffiths JR. (2010). &quot;Magnetic resonance spectroscopy of cancer metabolism and response to therapy.&quot; <i>Radiation Research</i>. 177(4):398-435.'
 ---
+Dominick J. O. McIntyre, Basetti Madhu, Shen-Han Lee, John R. Griffiths
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Cancer Research UK, Cambridge Research Institute, Li Ka Shing Centre, Robinson Way, Cambridge CB2 0RE, UK.
+
+Magnetic resonance spectroscopy allows noninvasive in vivo measurements of biochemical information from living systems, ranging from cultured cells through experimental animals to humans. Studies of biopsies or extracts offer deeper insights by detecting more metabolites and resolving metabolites that cannot be distinguished in vivo. The pharmacokinetics of certain drugs, especially fluorinated drugs, can be directly measured in vivo. This review briefly describes these methods and their applications to cancer metabolism, including glycolysis, hypoxia, bioenergetics, tumor pH, and tumor responses to radiotherapy and chemotherapy.
