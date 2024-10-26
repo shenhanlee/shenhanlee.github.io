@@ -2,7 +2,7 @@
 title: "Magnetic resonance spectroscopy of cancer metabolism and response to therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2012-03-08-Magnetic resonance spectroscopy cancer metabolism response therapy-number-2
+permalink: /publication/2012-03-08-mrs-cancer-metabolism-response-therapy
 excerpt: 'Review paper on magnetic resonance spectroscopy (MRS) methods and their applications to evaluate cancer metabolism and tumour responses to radiotherapy and chemotherapy'
 date: 2012-03-08
 venue: 'Radiation Research'
