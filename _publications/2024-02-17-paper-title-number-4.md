@@ -7,7 +7,7 @@ excerpt: 'This study, which forms part of my PhD thesis in Oncology, is the firs
 date: 2018-09-12
 venue: 'British Journal of Cancer'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Griffiths JR_British Journal of Cancer_2018.pdf'
-citation: 'Lee SH, McIntyre D, Honess, D, Hulikova A, Pacheco-Torres J, Cerdán S,Swietach, P, Harris AL, Griffiths JR. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Lee SH, McIntyre D, Honess, D, Hulikova A, Pacheco-Torres J, Cerdán S,Swietach, P, Harris AL, Griffiths JR. (2015). &quot;Carbonic anhydrase IX is a pH-stat that sets an acidic tumour extracellular pH in vivo.&quot; <i>British Journal of Cancer</i>. 119(5):622-630.'
 ---
 
 Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>1</sup>, Alzbeta Hulikova <sup>3</sup>, Jesús Pacheco-Torres <sup>4</sup>, Sebastián Cerdán <sup>5</sup>, Pawel Swietach <sup>3</sup>, Adrian L. Harris <sup>6</sup>, John R. Griffiths <sup>7</sup>  
@@ -25,5 +25,7 @@ Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>
 <b>Methods</b>: We used 1H magnetic resonance spectroscopic imaging (MRSI) of the extracellular pH probe imidazolyl succinic acid (ISUCA) to measure and spatially map extracellular pH in HCT116 tumours transfected to express CAIX and empty vector controls in SCID mice. We also measured intracellular pH in situ with 31P MRS and measured lactate in freeze-clamped tumours.
 
 <b>Results</b>: CAIX-expressing tumours had 0.15 pH-unit lower median extracellular pH than control tumours (pH 6.71 tumour vs pH 6.86 control, P = 0.01). Importantly, CAIX expression imposed an upper limit for tumour extracellular pH at 6.93. Despite the increased lactate concentration in CAIX-expressing tumours, 31P MRS showed no difference in intracellular pH, suggesting that CAIX acidifies only the tumour extracellular space.
+
+Copyright © The Authors 2018
 
 DOI:[10.1038/s41416-018-0216-5](https://doi.org/10.1038/s41416-018-0216-5) 
