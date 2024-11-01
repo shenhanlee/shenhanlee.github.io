@@ -12,7 +12,7 @@ citation: 'McIntyre DJ, Madhu B, Lee SH, Griffiths JR. (2012). &quot;Magnetic re
 Dominick J. O. McIntyre <sup>1,*</sup>, Basetti Madhu <sup>1</sup>, Shen-Han Lee <sup>1</sup>, John R. Griffiths <sup>1</sup>
 
 <sup>1</sup> Cancer Research UK, Cambridge Research Institute, Li Ka Shing Centre, Robinson Way, Cambridge CB2 0RE, UK.  
-<sup>*</sup> Corresponding author:[dominick.mcintyre@cruk.cam.ac.uk](mailto:dominick.mcintyre@cruk.cam.ac.uk)
+<sup>*</sup> Corresponding author: [dominick.mcintyre@cruk.cam.ac.uk](mailto:dominick.mcintyre@cruk.cam.ac.uk)
 
 Magnetic resonance spectroscopy allows noninvasive in vivo measurements of biochemical information from living systems, ranging from cultured cells through experimental animals to humans. Studies of biopsies or extracts offer deeper insights by detecting more metabolites and resolving metabolites that cannot be distinguished in vivo. The pharmacokinetics of certain drugs, especially fluorinated drugs, can be directly measured in vivo. This review briefly describes these methods and their applications to cancer metabolism, including glycolysis, hypoxia, bioenergetics, tumor pH, and tumor responses to radiotherapy and chemotherapy.
 
