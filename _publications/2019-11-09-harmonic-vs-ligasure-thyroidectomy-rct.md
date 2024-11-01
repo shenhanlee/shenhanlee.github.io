@@ -20,7 +20,7 @@ Shen-Han Lee <sup>1,2,a</sup>, Thien Khanh Nguyen <sup>1,2,a</sup>, Whee-Sze Ong
 <sup>6</sup> SingHealth Duke-NUS Head and Neck Centre, Singapore General Hospital, Singapore, Singapore.  
 <sup>7</sup> Division of Surgical Oncology, National Cancer Centre, Singapore, Singapore.  
 <sup>8</sup> SingHealth Duke-NUS Head and Neck Centre, Singapore General Hospital, Singapore, Singapore.  
-<sup>a</sup> Contributed equally
+<sup>a</sup> Contributed equally  
 <sup>*</sup> Corresponding author: [gopaliyer@yahoo.com](mailto:gopaliyer@yahoo.com); [gopaliyer@singhealth.com.sg](mailto:gopaliyer@singhealth.com.sg)
 
 
