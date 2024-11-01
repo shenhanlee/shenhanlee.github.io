@@ -10,7 +10,7 @@ paperurl: 'https://shenhanlee.github.io/files/Lee SH & Griffiths JR_Cancers_2020
 citation: 'Lee SH, Griffiths JR. (2020). &quot;How and Why Are Cancers Acidic? Carbonic Anhydrase IX and the Homeostatic Control of Tumour Extracellular pH.&quot; <i>Cancers</i>. 12(6)1616.'
 ---
 
-Shen-Han Lee <sup>1,*</sup>, John R Griffiths <sup>2</sup>  
+Shen-Han Lee <sup>1,*</sup>, John R. Griffiths <sup>2</sup>  
 
 <sup>1</sup> Department of Otorhinolaryngology, Hospital Sultanah Bahiyah, Jalan Langgar, Alor Setar 05460, Kedah, Malaysia.  
 <sup>2</sup> Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing Centre, Robinson Way, Cambridge CB2 0RE, UK.  
