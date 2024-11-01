@@ -26,7 +26,7 @@ Valerie Toh <sup>1,2,*</sup>, Sui Poh Tee <sup>1,3</sup>, Shen-Han Lee <sup>4</s
 
 <b>Conclusion</b>: Melioidosis remains a fatal infection and commonly presents with septic shock, in the form of bacteraemia and pneumonia. Two routine clinical parameters, serum bicarbonate and serum albumin, may have important prognostic implications in septicaemic melioidosis.
 
-<b>Keywords</b>: Burkholderia pseudomallei; Sarawak; melioidosis; predictive value of tests; retrospective; risk factors.
+<b>Keywords</b>: <i>Burkholderia pseudomallei</i>; Sarawak; melioidosis; predictive value of tests; retrospective; risk factors.
 
 Copyright © 2021 John Wiley & Sons Ltd.  
 
