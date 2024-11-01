@@ -7,7 +7,7 @@ excerpt: 'Review paper on metabolic adaptations involving carbohydrate and creat
 date: 2021-09-09
 venue: 'Cells'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Golinska M, Griffiths JR_Cells_2021.pdf'
-citation: 'Lee SH, Golinska M, Griffiths JR. (2021). &quot;HIF-1-Independent Mechanisms Regulating Metabolic Adaptation in Hypoxic Cancer Cells.&quot; <i>Cells</i>. 1(3).'
+citation: 'Lee SH, Golinska M, Griffiths JR. (2021). &quot;HIF-1-Independent Mechanisms Regulating Metabolic Adaptation in Hypoxic Cancer Cells.&quot; <i>Cells</i>. 10(9)2371.'  
 ---
 
 Shen-Han Lee <sup>1,*</sup>, Monika Golinska <sup>2,3</sup>, John R. Griffiths <sup>2</sup>  
