@@ -3,7 +3,7 @@ title: "Clinical characteristics and predictors of mortality in patients with me
 collection: publications
 category: manuscripts
 permalink: /publication/2021-02-16-clinical-characteristics-melioidosis-kapit
-excerpt: 'A retrospective study of 73 patients with melioidosis at Kapit Hospital, Sarawak, Malaysia between 2016 to 2019. Patients commonly presented with septic shock, in the form of bacteraemia and pneumonia. Two routine clinical parameters, serum bicarbonate and albumin were found to have important prognostic implications in septicaemic melioidosis..'
+excerpt: 'This is a retrospective study of 73 patients with melioidosis at Kapit Hospital, Sarawak, Malaysia between 2016 to 2019. Patients commonly presented with septic shock, in the form of bacteraemia and pneumonia. Two routine clinical parameters, serum bicarbonate and albumin were found to have important prognostic implications in septicaemic melioidosis..'
 date: 2021-02-16
 venue: 'Tropical Medicine & International Health'
 paperurl: 'https://shenhanlee.github.io/files/Toh V, Tee SP, Lee SH_Tropical Medicine & International Health_2021.pdf'
