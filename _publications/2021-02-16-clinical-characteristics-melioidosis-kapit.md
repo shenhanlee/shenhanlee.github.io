@@ -18,7 +18,7 @@ Valerie Toh <sup>1,2,*</sup>, Sui Poh Tee <sup>1,3</sup>, Shen-Han Lee <sup>4</s
 <sup>4</sup> Department of Otorhinolaryngology, Hospital Sultanah Bahiyah, Kedah, Malaysia.  
 *Corresponding author: [valerietohwenting@gmail.com](mailto:valerietohwenting@gmail.com)  
 
-<b>Objectives</b>: Melioidosis, caused by Burkholderia pseudomallei, is prevalent in rural areas of Malaysia. The aim of this study is to delineate the epidemiology and predictors of mortality from melioidosis in Kapit district, Sarawak.
+<b>Objectives</b>: Melioidosis, caused by <i>Burkholderia pseudomallei</i>, is prevalent in rural areas of Malaysia. The aim of this study is to delineate the epidemiology and predictors of mortality from melioidosis in Kapit district, Sarawak.
 
 <b>Methods</b>: For this retrospective study of patients with culture-confirmed melioidosis admitted to Kapit Hospital, Sarawak, Malaysia, between July 2016 and July 2019, epidemiological, clinical and microbiological data were obtained. Univariate and multivariate logistic regression analyses were used to determine predictors of mortality.
 
