@@ -10,7 +10,7 @@ paperurl: 'https://shenhanlee.github.io/files/Lee SH, Nguyen TK, Iyer NG_Annals 
 citation: 'Lee SH, Nguyen TK, Ong WS, Haaland B, Tay GC, Tan NC, Tan HK, Ng JCF, Iyer NG. (2019). &quot;Comparing the Utility and Surgical Outcomes of Harmonic Focus Ultrasonic Scalpel with Ligasure Small Jaw Bipolar Device in Thyroidectomies: A Prospective Randomized Controlled Trial.&quot; <i>Annals of Surgical Oncology</i>. 26(13):4414-4422.'
 ---
 
-Shen-Han Lee <sup>1,2</sup>, Thien Khanh Nguyen <sup>1,2</sup>, Whee-Sze Ong <sup>3</sup>, Benjamin Haaland <sup>4,5</sup>, Gerald Ci-An Tay <sup>2,6</sup>, Ngian Chye Tan <sup>1,6</sup>, Hiang Khoon Tan <sup>1,2,6</sup>, Jeremy Chung Fai Ng <sup>2,6</sup>, N. Gopalakrishna Iyer <sup>7,8,*</sup>  
+Shen-Han Lee <sup>1,2,a</sup>, Thien Khanh Nguyen <sup>1,2,a</sup>, Whee-Sze Ong <sup>3</sup>, Benjamin Haaland <sup>4,5</sup>, Gerald Ci-An Tay <sup>2,6</sup>, Ngian Chye Tan <sup>1,6</sup>, Hiang Khoon Tan <sup>1,2,6</sup>, Jeremy Chung Fai Ng <sup>2,6</sup>, N. Gopalakrishna Iyer <sup>7,8,*</sup>  
 
 <sup>1</sup> Division of Surgical Oncology, National Cancer Centre, Singapore, Singapore.   
 <sup>2</sup> Department of General Surgery, Singapore General Hospital, Singapore, Singapore.  
@@ -19,7 +19,8 @@ Shen-Han Lee <sup>1,2</sup>, Thien Khanh Nguyen <sup>1,2</sup>, Whee-Sze Ong <su
 <sup>5</sup> Population Health Sciences, Division of Biostatistics, University of Utah, Salt Lake City, UT, USA.  
 <sup>6</sup> SingHealth Duke-NUS Head and Neck Centre, Singapore General Hospital, Singapore, Singapore.  
 <sup>7</sup> Division of Surgical Oncology, National Cancer Centre, Singapore, Singapore.  
-<sup>8</sup> SingHealth Duke-NUS Head and Neck Centre, Singapore General Hospital, Singapore, Singapore.   
+<sup>8</sup> SingHealth Duke-NUS Head and Neck Centre, Singapore General Hospital, Singapore, Singapore.  
+<sup>a</sup> Contributed equally
 <sup>*</sup> Corresponding author: [gopaliyer@yahoo.com](mailto:gopaliyer@yahoo.com); [gopaliyer@singhealth.com.sg](mailto:gopaliyer@singhealth.com.sg)
 
 
