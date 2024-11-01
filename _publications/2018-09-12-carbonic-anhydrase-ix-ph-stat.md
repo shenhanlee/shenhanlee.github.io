@@ -7,7 +7,7 @@ excerpt: 'This study, which forms part of my PhD thesis, is the first to demonst
 date: 2018-09-12
 venue: 'British Journal of Cancer'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Griffiths JR_British Journal of Cancer_2018.pdf'
-citation: 'Lee SH, McIntyre D, Honess, D, Hulikova A, Pacheco-Torres J, Cerdán S,Swietach, P, Harris AL, Griffiths JR. (2015). &quot;Carbonic anhydrase IX is a pH-stat that sets an acidic tumour extracellular pH in vivo.&quot; <i>British Journal of Cancer</i>. 119(5):622-630.'
+citation: 'Lee SH, McIntyre D, Honess, D, Hulikova A, Pacheco-Torres J, Cerdán S,Swietach, P, Harris AL, Griffiths JR. (2018). &quot;Carbonic anhydrase IX is a pH-stat that sets an acidic tumour extracellular pH in vivo.&quot; <i>British Journal of Cancer</i>. 119(5):622-630.'
 ---
 
 Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>1</sup>, Alzbeta Hulikova <sup>3</sup>, Jesús Pacheco-Torres <sup>4</sup>, Sebastián Cerdán <sup>5</sup>, Pawel Swietach <sup>3</sup>, Adrian L. Harris <sup>6</sup>, John R. Griffiths <sup>7</sup>  
