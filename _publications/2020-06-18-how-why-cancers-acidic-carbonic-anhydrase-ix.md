@@ -3,7 +3,7 @@ title: "How and Why Are Cancers Acidic? Carbonic Anhydrase IX and the Homeostati
 collection: publications
 category: manuscripts
 permalink: /publication/2020-06-18-how-why-cancers-acidic-carbonic-anhydrase-ix
-excerpt: 'Review paper on the causes and consequences of the acidic tumour microenvironment, with a focus on carbonic anhydrase IX (CAIX) and prospects for clinical translation of CAIX-targeted therapies in oncology'  
+excerpt: 'This is a review paper on the causes and consequences of the acidic tumour microenvironment, with a focus on carbonic anhydrase IX (CAIX) and prospects for clinical translation of CAIX-targeted therapies in oncology'  
 date: 2020-06-18
 venue: 'Cancers'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH & Griffiths JR_Cancers_2020.pdf'

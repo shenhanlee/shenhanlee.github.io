@@ -3,7 +3,7 @@ title: "MRI & MRS assessment of the role of the tumour microenvironment in respo
 collection: publications
 category: manuscripts
 permalink: /publication/2011-05-12-MRI-MRS-assessment-tumour-microenvronment-response-therapy
-excerpt: 'Review paper on the role of magnetic resonance imaging (MRI) and spectroscopic (MRS) techniques to assess the tumour microenvironment in response to therapy.'
+excerpt: 'This is a review paper on the role of magnetic resonance imaging (MRI) and spectroscopic (MRS) techniques to assess the tumour microenvironment in response to therapy.'
 date: 2011-05-12
 venue: 'NMR in Biomedicine'
 paperurl: 'https://shenhanlee.github.io/files/Bell LK, Ainsworth NL, Lee SH, Griffiths JR_NMR in Biomedicine_2011.pdf'

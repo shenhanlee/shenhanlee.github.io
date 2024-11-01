@@ -3,7 +3,7 @@ title: "HIF-1-Independent Mechanisms Regulating Metabolic Adaptation in Hypoxic 
 collection: publications
 category: manuscripts
 permalink: /publication/2021-09-09-hif-1-independent-metabolic-adaptation-hypoxia-cancer
-excerpt: 'Review paper on metabolic adaptations involving carbohydrate and creatinine metabolism and other HIF-1-independent mechanisms that enable cancers to survive hypoxia despite anti-HIF-1 therapy.'
+excerpt: 'This is a review paper on metabolic adaptations involving carbohydrate and creatinine metabolism and other HIF-1-independent mechanisms that enable cancers to survive hypoxia despite anti-HIF-1 therapy.'
 date: 2021-09-09
 venue: 'Cells'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Golinska M, Griffiths JR_Cells_2021.pdf'

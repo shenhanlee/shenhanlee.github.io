@@ -3,7 +3,7 @@ title: "Carbonic anhydrase IX is a pH-stat that sets an acidic tumour extracellu
 collection: publications
 category: manuscripts
 permalink: /publication/2018-09-12-carbonic-anhydrase-ix-ph-stat
-excerpt: 'This study, which forms part of my PhD thesis, is the first to demonstrate that a hypoxia-associated tumour enzyme, carbonic anhydrase IX (CAIX) acidifies the tumor microenvironment in vivo. This study also uncovered a extracellular pH-stat mechanism for CAIX that maintains a more acidic environment within solid tumors.'
+excerpt: 'This pre-clinical study, which forms part of my PhD thesis, is the first to demonstrate that a hypoxia-associated tumour enzyme, carbonic anhydrase IX (CAIX) acidifies the tumor microenvironment in vivo. This study also uncovered a extracellular pH-stat mechanism for CAIX that maintains a more acidic environment within solid tumors.'
 date: 2018-09-12
 venue: 'British Journal of Cancer'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Griffiths JR_British Journal of Cancer_2018.pdf'

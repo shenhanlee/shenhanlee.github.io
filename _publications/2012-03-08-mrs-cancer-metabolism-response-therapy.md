@@ -3,7 +3,7 @@ title: "Magnetic resonance spectroscopy of cancer metabolism and response to the
 collection: publications
 category: manuscripts
 permalink: /publication/2012-03-08-mrs-cancer-metabolism-response-therapy
-excerpt: 'Review paper on magnetic resonance spectroscopy (MRS) methods and their applications to evaluate cancer metabolism and tumour responses to radiotherapy and chemotherapy'
+excerpt: 'This is a review paper on magnetic resonance spectroscopy (MRS) methods and their applications to evaluate cancer metabolism and tumour responses to radiotherapy and chemotherapy'
 date: 2012-03-08
 venue: 'Radiation Research'
 paperurl: 'https://shenhanlee.github.io/files/McIntyre DJO, Basetti M, Lee SH, Griffiths JR_Radiation Research_2012.pdf'
