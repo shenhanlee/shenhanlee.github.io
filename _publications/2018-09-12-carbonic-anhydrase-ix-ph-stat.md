@@ -20,9 +20,9 @@ Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>
 <sup>6</sup> Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, OX3 9DS, UK.  
 <sup>*</sup> Corresponding author: john.griffiths@cruk.cam.ac.uk  
 
-<b>Background</b>: Tumour carbonic anhydrase IX (CAIX), a hypoxia-inducible tumour-associated cell surface enzyme, is thought to acidify the tumour microenvironment by hydrating CO2 to form protons and bicarbonate, but there is no definitive evidence for this in solid tumours in vivo.
+<b>Background</b>: Tumour carbonic anhydrase IX (CAIX), a hypoxia-inducible tumour-associated cell surface enzyme, is thought to acidify the tumour microenvironment by hydrating CO<sub>2</sub> to form protons and bicarbonate, but there is no definitive evidence for this in solid tumours in vivo.
 
-<b>Methods</b>: We used 1H magnetic resonance spectroscopic imaging (MRSI) of the extracellular pH probe imidazolyl succinic acid (ISUCA) to measure and spatially map extracellular pH in HCT116 tumours transfected to express CAIX and empty vector controls in SCID mice. We also measured intracellular pH in situ with 31P MRS and measured lactate in freeze-clamped tumours.
+<b>Methods</b>: We used <sup>1</sup>H magnetic resonance spectroscopic imaging (MRSI) of the extracellular pH probe imidazolyl succinic acid (ISUCA) to measure and spatially map extracellular pH in HCT116 tumours transfected to express CAIX and empty vector controls in SCID mice. We also measured intracellular pH in situ with <sup>31</sup>P MRS and measured lactate in freeze-clamped tumours.
 
 <b>Results</b>: CAIX-expressing tumours had 0.15 pH-unit lower median extracellular pH than control tumours (pH 6.71 tumour vs pH 6.86 control, P = 0.01). Importantly, CAIX expression imposed an upper limit for tumour extracellular pH at 6.93. Despite the increased lactate concentration in CAIX-expressing tumours, 31P MRS showed no difference in intracellular pH, suggesting that CAIX acidifies only the tumour extracellular space.
 
