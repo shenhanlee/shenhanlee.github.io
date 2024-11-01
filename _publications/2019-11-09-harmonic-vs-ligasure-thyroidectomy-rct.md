@@ -3,7 +3,7 @@ title: "Comparing the Utility and Surgical Outcomes of Harmonic Focus Ultrasonic
 collection: publications
 category: manuscripts
 permalink: /publication/2019-11-09-harmonic-vs-ligasure-thyroidectomy-rct
-excerpt: 'This is a randomized controlled trial comparing the Harmonic Focus ultrasonic scalpel and Ligasure Small Jaw bipolar device in thyroidectomy at a single tertiary center. Our study found no significant differences in duration of surgery, postoperative drainage or adverse events. The Harmonic scalpel was associated with a higher postoperative pain but favoured by surgeons due to the ability to perform fine dissection with the device itself.'
+excerpt: 'This is a randomized controlled trial comparing the use of Harmonic Focus ultrasonic scalpel and Ligasure Small Jaw bipolar device in thyroidectomy at a single tertiary center. There were significant differences in duration of surgery, postoperative drainage or adverse events. The Harmonic scalpel was associated with a higher postoperative pain but favoured by surgeons due to the ability to perform fine dissection with the device itself.'
 date: 2019-11-09
 venue: 'Annals of Surgical Oncology'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Nguyen TK, Iyer NG_Annals of Surgical Oncology_2019.pdf'
