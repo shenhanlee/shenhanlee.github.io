@@ -17,7 +17,7 @@ Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>
 <sup>3</sup> Department of Physiology, Anatomy & Genetics, University of Oxford, Parks Road, Oxford, OX1 3PT, UK.  
 <sup>4</sup> Division of Cancer Imaging Research, The Johns Hopkins University School of Medicine, 720 Rutland Avenue, Traylor 211, Baltimore, MD, 21205, USA.  
 <sup>5</sup> Instituto de Investigaciones Biomédicas "Alberto Sols", c/ Arturo Duperier 4, Madrid, 28029, Spain.  
-<sup>6</sup> Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, OX3 9DS, UK.
+<sup>6</sup> Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, OX3 9DS, UK.  
 <sup>*</sup> Corresponding author: john.griffiths@cruk.cam.ac.uk  
 
 <b>Background</b>: Tumour carbonic anhydrase IX (CAIX), a hypoxia-inducible tumour-associated cell surface enzyme, is thought to acidify the tumour microenvironment by hydrating CO2 to form protons and bicarbonate, but there is no definitive evidence for this in solid tumours in vivo.
