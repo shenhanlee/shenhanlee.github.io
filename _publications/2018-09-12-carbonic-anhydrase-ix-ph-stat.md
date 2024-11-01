@@ -24,7 +24,7 @@ Shen-Han Lee <sup>1 2</sup>, Dominick McIntyre <sup>1</sup>, Davina Honess <sup>
 
 <b>Methods</b>: We used <sup>1</sup>H magnetic resonance spectroscopic imaging (MRSI) of the extracellular pH probe imidazolyl succinic acid (ISUCA) to measure and spatially map extracellular pH in HCT116 tumours transfected to express CAIX and empty vector controls in SCID mice. We also measured intracellular pH in situ with <sup>31</sup>P MRS and measured lactate in freeze-clamped tumours.
 
-<b>Results</b>: CAIX-expressing tumours had 0.15 pH-unit lower median extracellular pH than control tumours (pH 6.71 tumour vs pH 6.86 control, P = 0.01). Importantly, CAIX expression imposed an upper limit for tumour extracellular pH at 6.93. Despite the increased lactate concentration in CAIX-expressing tumours, 31P MRS showed no difference in intracellular pH, suggesting that CAIX acidifies only the tumour extracellular space.
+<b>Results</b>: CAIX-expressing tumours had 0.15 pH-unit lower median extracellular pH than control tumours (pH 6.71 tumour vs pH 6.86 control, P = 0.01). Importantly, CAIX expression imposed an upper limit for tumour extracellular pH at 6.93. Despite the increased lactate concentration in CAIX-expressing tumours, <sup>31</sup>P MRS showed no difference in intracellular pH, suggesting that CAIX acidifies only the tumour extracellular space.
 
 Copyright © The Authors 2018
 
