@@ -17,5 +17,5 @@ Thank you for visiting and exploring my website. Please feel free to contact me 
 
 ![Picture of University of Cambridge](/images/Cambridge.jpeg)  
 
-![St John Chapel Cambridge](images/St John Chapel Cambridge.jpeg)
+![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg)
 
