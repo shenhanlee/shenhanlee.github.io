@@ -18,4 +18,4 @@ Magnetic resonance spectroscopy allows noninvasive in vivo measurements of bioch
 
 Copyright © 2012 Radiation Research Society.
 
-DOI:[10.1667/rr2903.1](https://doi.org/10.1667/rr2903.1)
+DOI: [10.1667/rr2903.1](https://doi.org/10.1667/rr2903.1)

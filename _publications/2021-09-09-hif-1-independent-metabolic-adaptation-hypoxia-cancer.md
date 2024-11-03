@@ -21,5 +21,7 @@ In solid tumours, cancer cells exist within hypoxic microenvironments, and their
 
 <b>Keywords</b>: 2-hydroxyglutarate; AMP-activated protein kinase (AMPK); Myc; cancer metabolism; creatine metabolism; glutamine metabolism; glycolysis; hypoxia; hypoxia-inducible factor-1 (HIF-1); lipid metabolism; phosphatidylinositol 3-kinase (PI3K).
 
-DOI:[10.3390/cells10092371](https://doi.org/10.3390/cells10092371)  
+Copyright © The Authors 2021  
+
+DOI: [10.3390/cells10092371](https://doi.org/10.3390/cells10092371)  
 

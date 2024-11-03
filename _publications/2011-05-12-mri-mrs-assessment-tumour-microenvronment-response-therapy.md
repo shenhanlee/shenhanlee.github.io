@@ -19,4 +19,4 @@ MRI and MRS techniques are being applied to the characterisation of various aspe
 
 Copyright © 2011 John Wiley & Sons, Ltd.
 
-DOI:[10.1002/nbm.1720](https://doi.org/10.1002/nbm.1720) 
+DOI: [10.1002/nbm.1720](https://doi.org/10.1002/nbm.1720) 

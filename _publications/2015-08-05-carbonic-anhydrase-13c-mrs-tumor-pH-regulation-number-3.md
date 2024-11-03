@@ -23,4 +23,4 @@ Carbonic anhydrase buffers tissue pH by catalyzing the rapid interconversion of 
 
 Copyright © 2015 American Association for Cancer Research.
 
-DOI:[10.1158/0008-5472.CAN-15-0857](https://doi.org/10.1158/0008-5472.CAN-15-0857)
+DOI: [10.1158/0008-5472.CAN-15-0857](https://doi.org/10.1158/0008-5472.CAN-15-0857)
