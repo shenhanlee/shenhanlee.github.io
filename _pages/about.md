@@ -17,4 +17,5 @@ Thank you for visiting and exploring my website. Please feel free to contact me 
 
 ![Picture of University of Cambridge](/images/Cambridge.jpeg)  
 
-![Picture of Hospital Pakar USM](/images/Hospital Pakar USM Front.jpg)
+![St John Chapel Cambridge](images/St John Chapel Cambridge.jpeg)
+
