@@ -7,7 +7,7 @@ excerpt: 'This is a nationwide, multi-centre, cross-sectional study of self-repo
 date: 2022-02-08
 venue: 'Scientific Reports'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Mohd Hashim SS_Scientific Reports_2022.pdf'
-citation: 'Lee SH, Yeoh ZX, Sachlin IS, Gazali N, Soelar SA, Foo CY, Low LL, Alwi SB, Kamalden TM, Shanmuganathan J, Zaid M, Wong CY, Chua HH, Yusuf S, Muhamad D, Devesahaya PR, Ker HB, Salahuddin Z, Mustafa M, Sawali H, Lee HG, Din S, Misnan NA, Mohamed A, Ismail MN, Periasamy C, Chow TS, Krishan EK, Leong CL, Lim LPF, Zaidan NZ, Ibrahim Z, Abd Wahab S, Mohd Hashim SS, Malaysian COVID-19 Anosmia Research Group
+citation: 'Lee SH, Yeoh ZX, Sachlin IS, Gazali N, Soelar SA, Foo CY, Low LL, Alwi SB, Kamalden TM, Shanmuganathan J, Zaid M, Wong CY, Chua HH, Yusuf S, Muhamad D, Devesahayam PR, Ker HB, Salahuddin Z, Mustafa M, Sawali H, Lee HG, Din S, Misnan NA, Mohamed A, Ismail MN, Periasamy C, Chow TS, Krishan EK, Leong CL, Lim LPF, Zaidan NZ, Ibrahim Z, Abd Wahab S, Mohd Hashim SS, Malaysian COVID-19 Anosmia Research Group
 . (2022). &quot;Self-reported symptom study of COVID-19 chemosensory dysfunction in Malaysia.&quot; <i>Scientific Reports</i>. 12(1):2111.'
 ---
 
