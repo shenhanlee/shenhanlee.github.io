@@ -15,7 +15,7 @@ I studied [pre-clinical medicine](https://www.biology.cam.ac.uk/undergrads/MedST
 
 Thank you for visiting and exploring my website. Please feel free to contact me via [Email](mailto:shen-han.lee@cantab.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/shenhanlee/) or [X (formerly Twitter)](https://x.com/ShenHanLee) for any inquiries or potential future collaborations.  
 
-![Picture of University of Cambridge](/images/Cambridge.jpeg)  
-
 ![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg)
+
+![Picture of University of Cambridge](/images/Cambridge.jpeg)  
 
