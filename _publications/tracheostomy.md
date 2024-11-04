@@ -12,10 +12,10 @@ citation: 'Mohd Zakir NN, Mohamad I, Lee SH, Yusof Z, Muhammod Riaz Z. (2023). &
 
 Nurul Najwa Mohd Zakir <sup>1,2</sup>, Irfan Mohamad <sup>1,*</sup>, Shen-Han Lee <sup>2</sup>, Zulkifli Yusof <sup>2</sup> , Zahidah Muhammod Riaz <sup>3</sup>  
 
-<sup>1<sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia  
-<sup>2<sup> Department of Otorhinolaryngology, Head and Neck Surgery, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia  
-<sup>3<sup> Department of Radiology, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia  
-<sup>*<sup> Corresponding author: [irfankb@usm.my](mailto:irfankb@usm.my)  
+<sup>1</sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia  
+<sup>2</sup> Department of Otorhinolaryngology, Head and Neck Surgery, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia  
+<sup>3</sup> Department of Radiology, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia  
+<sup>*</sup> Corresponding author: [irfankb@usm.my](mailto:irfankb@usm.my)  
 
 We report a case of a difficult tracheostomy complicated by massive immediate bleeding from the innominate artery that required a median sternotomy for vascular access and control.  
 
