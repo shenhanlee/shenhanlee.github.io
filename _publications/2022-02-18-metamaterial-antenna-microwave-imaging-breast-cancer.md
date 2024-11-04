@@ -3,7 +3,7 @@ title: "Negative Index Metamaterial-Based Frequency-Reconfigurable Textile CPW A
 collection: publications
 category: manuscripts
 permalink: /publication/2022-02-18-metamaterial-antenna-microwave-imaging-breast-cancer
-excerpt: 'This study is on the design and development of a metamaterial-based reconfigurable textile antenna for microwave breast imaging. This microwave imaging system was capable of detecting a tumour as small as 10 mm in a breast phantom and may be used clinically for detection of breast cancer.'
+excerpt: 'This study reports the design and development of a metamaterial-based reconfigurable textile antenna for microwave breast imaging. This microwave imaging system was capable of detecting a tumour as small as 10 mm in a breast phantom and we propose that it may be used clinically for detection of breast cancer.'
 date: 2022-02-18
 venue: 'Sensors'
 paperurl: 'https://shenhanlee.github.io/files/Hossain K, Sabapathy T_Sensors_2022.pdf'
