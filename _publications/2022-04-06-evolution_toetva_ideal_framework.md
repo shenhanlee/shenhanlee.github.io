@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-04-06-evolution_toetva_ideal_framework
 excerpt: 'This article reviews the evidence base, including landmark studies in the field of transoral endoscopic thyroid surgery vestibular approach (TOETVA), and assesses whether the evolution of TOETVA has aligned with the IDEAL framework, a scheme for safe implementation and assessment of surgical innovation.'
-date: 2015-10-01
+date: 2022-04-06
 venue: 'British Journal of Surgery'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Moorthy R, Nagala S_British Journal of Surgery_2022.pdf'
 citation: 'Lee SH, Moorthy R, Nagala S. (2015). &quot;.&quot; <i>British Journal of Surgery</i>. 109(6):497-502.'  

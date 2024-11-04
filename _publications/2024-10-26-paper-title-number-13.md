@@ -7,7 +7,7 @@ excerpt: 'Our response to a comment by by Alkaissy et al. on the TOETVA IDEAL Fr
 date: 2022-07-27
 venue: 'British Journal of Surgery'  
 paperurl: 'https://shenhanlee.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>British Journal of Surgery</i>. 109(11):e118.'
+citation: 'Author response to: Comment on: Evolution of transoral endoscopic thyroidectomy vestibular approach according to the IDEAL framework (2022). &quot;Paper Title Number 3.&quot; <i>British Journal of Surgery</i>. 109(11):e118.'
 ---
 
 Shen-Han Lee <sup>1,*</sup>, Ram Moorthy <sup>2,3</sup>, Sidhartha Nagala <sup>2</sup>  
