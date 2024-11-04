@@ -3,7 +3,7 @@ title: "Author response to: Comment on: Evolution of transoral endoscopic thyroi
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Author response to a comment by on the TOETVA IDEAL Framework paper in the Britsh Journal of Surgery.'
+excerpt: 'Our response to a comment by by Alkaissy et al. on the TOETVA IDEAL Framework paper in the Britsh Journal of Surgery.'
 date: 2022-07-27
 venue: 'British Journal of Surgery'  
 paperurl: 'https://shenhanlee.github.io/files/paper3.pdf'
@@ -17,4 +17,8 @@ Shen-Han Lee <sup>1,*</sup>, Ram Moorthy <sup>2,3</sup>, Sidhartha Nagala <sup>2
 <sup>3</sup> Department of Otolaryngology-Head and Neck Surgery, Wexham Park Hospital, Frimley Health NHS Foundation Trust, Slough, UK.  
 <sup>*</sup> Corresponding author: [shen-han.lee@cantab.net](mailto:shen-han.lee@cantab.net)  
 
-Author response to comment by [Alkaissy et al.](https://doi.org/10.1093/bjs/znac235) on the [TOETVA IDEAL Framework paper](https://doi.org/10.1093/bjs/znac072). 
+The authors' response to a comment by [Alkaissy et al.](https://doi.org/10.1093/bjs/znac235) on the [TOETVA IDEAL Framework paper](https://doi.org/10.1093/bjs/znac072). 
+
+© The Authors 2022. Published by Oxford University Press on behalf of BJS Society Ltd. All rights reserved.
+
+DOI: [10.1093/bjs/znac236](https://doi.org/10.1093/bjs/znac236)  
