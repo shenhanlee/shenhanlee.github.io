@@ -3,7 +3,7 @@ title: "Metabolic regulation of the tumour and its microenvironment: The role of
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-18-metabolic-regulation-tumour-microenvironment-epstein-barr-virus
-excerpt: 'This is first review paper that examines the link between Epstein-Barr virus, tumour metabolism and its microenvironment. Our review highlights how targeting this link may overcome resistance to immunotherapies.'
+excerpt: 'This is the first review paper that examines the links between Epstein-Barr virus, tumour metabolism and its microenvironment. Our review highlights how targeting this link may overcome resistance to immunotherapies.'
 date: 2024-09-19
 venue: 'International Journal of Cancer'
 paperurl: 'https://onlinelibrary.wiley.com/share/author/AMPVFEZEHYKIHVD8JS4C?target=10.1002/ijc.35192'
