@@ -7,7 +7,7 @@ excerpt: 'This article reviews the evidence base, including landmark studies in 
 date: 2022-04-06
 venue: 'British Journal of Surgery'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Moorthy R, Nagala S_British Journal of Surgery_2022.pdf'
-citation: 'Lee SH, Moorthy R, Nagala S. (2015). &quot;.&quot; <i>British Journal of Surgery</i>. 109(6):497-502.'  
+citation: 'Lee SH, Moorthy R, Nagala S. (2015). &quot;Evolution of transoral endoscopic thyroidectomy vestibular approach according to the IDEAL framework.&quot; <i>British Journal of Surgery</i>. 109(6):497-502.'  
 ---
 
 Shen-Han Lee <sup>1,*</sup>, Ram Moorthy <sup>2,3</sup>, Sidhartha Nagala <sup>2</sup>  
