@@ -2,7 +2,7 @@
 title: "Author response to: Comment on: Evolution of transoral endoscopic thyroidectomy vestibular approach according to the IDEAL framework"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-07-27-author-response-toetva-ideal-framework
 excerpt: 'Our response to a comment by by Alkaissy et al. on the TOETVA IDEAL Framework paper in the Britsh Journal of Surgery.'
 date: 2022-07-27
 venue: 'British Journal of Surgery'  
