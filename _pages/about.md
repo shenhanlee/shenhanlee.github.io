@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg){: .align-right width="480px"}  
+![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg){: .align-right width="496px"}  
 
 I am a medical doctor with the [Ministry of Health, Malaysia](https://www.moh.gov.my/) and an otorhinolaryngology-head & neck surgery (ORL-HNS) resident at the Master of Medicine (ORL-HNS) program of the [Department of Otorhinolaryngology-Head & Neck Surgery (ORL-HNS)](https://medic.usm.my/home-orlhns.html), [School of Medical Sciences](https://medic.usm.my/), [Universiti Sains Malaysia](https://www.usm.my/). 
 
