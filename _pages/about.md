@@ -13,7 +13,7 @@ I am a medical doctor with the [Ministry of Health, Malaysia](https://www.moh.go
 
 # <b>Research Interests</b>  
 
-My current research focuses on the application of natural language processing using large language models in healthcare and head and neck cancer research. I am also interested in understanding the cellular and molecular basis of cancer metabolism and the tumour microenvironment. I have an extensive research experience that encompasses basic science as well as translational and clinical studies. A list of my publications is available [here](https://shenhanlee.github.io/publications).
+My current research focuses on the application of natural language processing using <b>large language models</b> in healthcare and head and neck cancer research. I am also interested in understanding the cellular and molecular basis of cancer metabolism and the tumour microenvironment. I have an extensive research experience that encompasses basic science as well as translational and clinical studies. A list of my publications is available [here](https://shenhanlee.github.io/publications).
 
 # <b>My Background</b>  
 
@@ -22,4 +22,7 @@ I studied [pre-clinical medicine](https://www.biology.cam.ac.uk/undergrads/MedST
 Thank you for visiting and exploring my website. Please feel free to contact me via [Email](mailto:shen-han.lee@cantab.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/shenhanlee/) or [X (formerly Twitter)](https://x.com/ShenHanLee) for any inquiries or potential future collaborations.  
 
 ![Picture of University of Cambridge](/images/Cambridge.jpeg)  
+
+## <b>Disclaimer</b>  
+The postings on this site are my own and do not represent the positions, strategies or opinions of my employer or the institutions and organizations that I am currently or formerly affiliated to. The content on this site is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
