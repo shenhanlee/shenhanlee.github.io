@@ -24,5 +24,5 @@ Thank you for visiting and exploring my website. Please feel free to contact me 
 ![Picture of University of Cambridge](/images/Cambridge.jpeg)  
 
 ### <b>Disclaimer</b>  
-###[The postings on this site are my own and do not represent the positions, strategies, or opinions of the institutions and organizations that I am currently or formerly affiliated to. The content on this site is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.]
+### <i>The postings on this site are my own and do not represent the positions, strategies, or opinions of the institutions and organizations that I am currently or formerly affiliated with. The content on this site is for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.</i>
 
