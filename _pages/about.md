@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# <b> In Search of the Adjacent Possible - Bridging Artificial Intelligence, Biomedical Science & Otorhinolaryngology-Head & Neck Surgery </b> 
 
 ![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg){: .align-right width="496px"}  
 
