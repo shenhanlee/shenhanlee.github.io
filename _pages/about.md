@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Dr Shen-Han Lee - Welcome to My Website"
+title: "The Adjacent Possible - Bridging Artificial Intelligence, Cancer Research & Otorhinolaryngology-Head & Neck Surgery"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# <b> In Search of the Adjacent Possible - Bridging Artificial Intelligence, Biomedical Science & Otorhinolaryngology-Head & Neck Surgery </b> 
 
 ![St John Chapel Cambridge](images/St John Chapel Cambridge.jpg){: .align-right width="496px"}  
 
