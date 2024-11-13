@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shen-Han Lee - Welcome to My Website"
+title: "Dr Shen-Han Lee - Welcome to My Website"
 author_profile: true
 redirect_from: 
   - /about/
