@@ -13,7 +13,7 @@ I am a medical doctor with the [Ministry of Health, Malaysia](https://www.moh.go
 
 # <b>Research Interests</b>  
 
-<b>My research focuses on the applications of artificial intelligence in healthcare, where I focus on using natural language processing with large language models to study treatment response in patients with head and neck cancers. </b> I am also interested in understanding the cellular and molecular basis of <b>cancer metabolism</b> and the <b>tumour microenvironment</b>. I have an extensive research experience that encompasses basic science as well as translational and clinical studies. A list of my publications is available [here](https://shenhanlee.github.io/publications).
+<b>My current research focuses on using large language models to study treatment response in patients with head and neck cancers. </b> I am also interested in understanding the cellular and molecular basis of <b>cancer metabolism</b> and the <b>tumour microenvironment</b>. I have an extensive research experience that encompasses basic science as well as translational and clinical studies. A list of my publications is available [here](https://shenhanlee.github.io/publications).
 
 # <b>My Background</b>  
 
