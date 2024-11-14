@@ -17,6 +17,7 @@ Shen-Han Lee <sup>1,2,*</sup>, Alan Soo-Beng Khoo <sup>3,4</sup>, John R Griffit
 <sup>3</sup> School of Postgraduate Studies, International Medical University, Kuala Lumpur, Malaysia.  
 <sup>4</sup> Department of Medical Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania, USA.  
 <sup>5</sup> Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, UK.  
+<sup>*</sup> Corresponding authors: [shen-han.lee@cantab.net](mailto:shen-han.lee@cantab.net) and [norhafiza@usm.my](mailto:norhafiza@usm.my)  
 
 The Epstein-Barr virus (EBV), the first identified human tumour virus, infects over 95% of the individuals globally and has the potential to induce different types of cancers. It is increasingly recognised that EBV infection not only alters cellular metabolism, contributing to neoplastic transformation, but also utilises several non-cell autonomous mechanisms to shape the metabolic milieu in the tumour microenvironment (TME) and its constituent stromal and immune cells. In this review, we explore how EBV modulates metabolism to shape the interactions between cancer cells, stromal cells, and immune cells within a hypoxic and acidic TME. We highlight how metabolites resulting from EBV infection act as paracrine factors to regulate the TME, and how targeting them can disrupt barriers to immunotherapy.
 
