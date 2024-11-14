@@ -22,4 +22,6 @@ The Epstein-Barr virus (EBV), the first identified human tumour virus, infects o
 
 <b>Keywords</b>: EBV‐associated malignancies; Epstein–Barr virus; nasopharyngeal cancer; tumour metabolism; tumour microenvironment.  
 
+DOI: [10.1002/ijc.35192](https://doi.org/10.1002/ijc.35192)  
+
 Copyright © 2024  Union for International Cancer Control (UICC).  
