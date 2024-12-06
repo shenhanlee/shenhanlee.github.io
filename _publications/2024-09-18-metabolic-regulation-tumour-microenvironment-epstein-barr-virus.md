@@ -7,7 +7,7 @@ excerpt: 'This is the first review paper that examines the links between Epstein
 date: 2024-09-19
 venue: 'International Journal of Cancer'
 paperurl: 'https://onlinelibrary.wiley.com/share/author/AMPVFEZEHYKIHVD8JS4C?target=10.1002/ijc.35192'
-citation: 'Lee SH, Khoo ASB, Griffiths JR, Mat Lazim N. (2024). &quot;Metabolic regulation of the tumour and its microenvironment: The role of Epstein-Barr virus.&quot; <i>International Journal of Cancer</i>. Online ahead of print.'
+citation: 'Lee SH, Khoo ASB, Griffiths JR, Mat Lazim N. (2024). &quot;Metabolic regulation of the tumour and its microenvironment: The role of Epstein-Barr virus.&quot; <i>International Journal of Cancer</i>. 156(3):488-498.'
 ---
 
 Shen-Han Lee <sup>1,2,*</sup>, Alan Soo-Beng Khoo <sup>3,4</sup>, John R Griffiths <sup>5</sup>, Norhafiza Mat Lazim <sup>1,2*</sup>  
