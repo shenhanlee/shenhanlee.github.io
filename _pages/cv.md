@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Qualifications
 ======
 * Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia (in progress)
 * Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
 * Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
-* Doctor of Philosophy (PhD) in Oncology (Molecular Imaging), Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
+* Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
 * Master of Arts (MA), Christ's College, University of Cambridge, 2011
-* Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Part I Medical & Veterinary Sciences Tripos & Part II Natural Sciences Tripos (Pharmacology), Christ's College, University of Cambridge, 2007
+* Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007
 
 Work Experience
 ======
@@ -46,16 +46,7 @@ Work Experience
   
 * Jun - August 2005: Undergraduate Research Opportunities Program (UROP) Student
   * Department of Bioengineering, Imperial College London
-  * Supervisor: The late Professor Colin G. Caro 
-
-# Clinical Electives
-* May 2014: Medical Student Elective, Head & Neck Surgery
-  * Head & Neck Service, Department of Surgery, Memorial Sloan-Kettering Cancer Center (MSKCC)
-  * Supervisor: Professor Ashok Shaha
-
-* October 2013: Medical Student Elective, Head & Neck Surgery
-  * Head & Neck Service, Division of Surgical Oncology, National Cancer Center Singapore
-  * Supervisor: Clinical Associate Professor Hiang Khoon Tan 
+  * Supervisor: The late Professor Colin G. Caro
 
 Academic Honours
 =====
@@ -77,29 +68,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Management and Leadership
-======
-* Organizing Committee Member, Northern Region Symposium on Rhino-Ocular Infection, 8 October 2022
-* Organizing Committee Member, Virtual National ORL Symposium, Ministry of Health, Malaysia, 4 - 5 October 2021
-* Assistant Coordinator, Departmental CME Lectures, Department of ORL, Hospital Sultanah Bahiyah, Alor Setar, 2019 - 2023
-* President, Barts & The London Academic Medicine & Surgery Society (BLAMSS), 2013 - 2014
-* Co-chair, Barts & The London Academic Medicine & Surgery Society (BLAMSS) National Research Conference 2013 Translational Medicine, 5 October 2013, St Bartholomew's Hospital, London
-
-Public Engagement 
-=====
-* Social Media Editor, NMR in Biomedicine Journal Facebook Page, 2011 - 2012
-* Cancer Research UK Graduate Students Public Engagement of Science & Technology Communications Course, CRUK Head Office, London, February 2010
-* Founding Senior Editor, The Cambridge Triple Helix: Science in Society Magazine, 2006 - 2007
