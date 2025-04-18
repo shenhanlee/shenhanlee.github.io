@@ -33,7 +33,7 @@ Work Experience
 * 2008 - 2012: PhD Student 
   * Molecular Imaging Group (Magnetic Resonance Imaging & Spectroscopy)
   * Cancer Research UK Cambridge Institute, University of Cambridge
-  * Thesis Title: 1H Magnetic Resonance Spectroscopic Imaging of Tumour Extracellular pH in vivo: The Role of Carbonic Anhydrase IX (CAIX)
+  * Thesis Title: <sup>1</sup>H Magnetic Resonance Spectroscopic Imaging of Tumour Extracellular pH <i>in vivo</i>: The Role of Carbonic Anhydrase IX (CAIX)
   * Supervisor: Professor John R. Griffiths
 
 * January - March 2007: Part II Natural Sciences (Pharmacology) Research Student
