@@ -21,7 +21,7 @@ repository               : "shenhanlee/shenhanlee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "passport photo - white.jpg"
+  avatar           : "Shen-Han Lee - Headshot.jpg"
   name             : "Shen-Han Lee" 
   bio              : "MA (Cantab), MBBS, PhD, MRCSEd | Otorhinolaryngology-Head & Neck Surgery Resident | PhD in Oncology"
   location         : "Kubang Kerian, Kelantan, Malaysia"
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "shenhan.lee"
   lastfm           : # Username
   linkedin         : "shenhanlee"
   mastodon         : # URL
@@ -64,6 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
+  threads          : "@shenhanlee"
   twitter          : "shenhanlee"
   vine             : # Username
   weibo            : # Username
