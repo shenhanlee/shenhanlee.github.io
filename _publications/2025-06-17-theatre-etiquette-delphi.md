@@ -6,14 +6,14 @@ permalink: /publication/2025-06-17-theatre-etiquette-delphi
 excerpt: 'An international Delphi consensus study among senior surgeons to develop standardized guidance on theatre etiquette to address professional conduct and team dynamics for those unfamiliar with the theatre environment, including resident surgical trainees and medical students. I was part of the TED Collaborative Group'
 date: 2025-06-17
 venue: 'The Annals of The Royal College of Surgeons of England'
-paperurl: 'https://shenhanlee.github.io/files/El Boghdady M, Hardie J, Brennan PA, TED Collaborative Group_Theatre Etiquette Delphi_Ann R Coll Surg Engl_2025'
+paperurl: 'https://shenhanlee.github.io/files/El Boghdady M, Hardie J, Brennan PA, TED Collaborative Group_Theatre Etiquette Delphi_Ann R Coll Surg Engl_2025.pdf'
 citation: 'El Boghdady M, Hardie J, Brennan PA, TED Collaborative Consensus. (2025). &quot;Theatre etiquette Delphi: the development of a guide on professional conduct and best practices in operating environments.&quot; <i>The Annals of The Royal College of Surgeons on England</i>. doi: 10.1308/rcsann.2025.0040. Epub ahead of print'
 ---
 
 Michael El Boghdady <sup>1,*</sup>, John Hardie <sup>2</sup>, Peter A Brennan <sup>3</sup>, TED Collaborative Group   
 
-<sup>1</sup> St George's University Hospitals NHS Foundation Trust, UK.   
-<sup>2</sup> University Hospital Southampton, UK.  
+<sup>1</sup> St George's University Hospitals NHS Foundation Trust, UK.  
+<sup>2</sup> University Hospital Southampton, UK. 
 <sup>3</sup> Portsmouth Hospitals University NHS Trust, UK. 
 <sup>*</sup> Corresponding author: [michael.elboghdady@nhs.net](mailto:michael.elboghdady@nhs.net)  
 
