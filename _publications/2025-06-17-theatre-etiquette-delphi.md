@@ -7,7 +7,7 @@ excerpt: 'An international Delphi consensus study among senior surgeons to devel
 date: 2025-06-17
 venue: 'The Annals of The Royal College of Surgeons of England'
 paperurl: 'https://shenhanlee.github.io/files/El Boghdady M, Hardie J, Brennan PA, TED Collaborative Group_Theatre Etiquette Delphi_Ann R Coll Surg Engl_2025'
-citation: 'M El Boghdady, J Hardie, PA Brenna, TED Collaborative Consensus. (2025). &quot;Theatre etiquette Delphi: the development of a guide on professional conduct and best practices in operating environments.&quot; <i>The Annals of The Royal College of Surgeons on England</i>. epub ahead of print'
+citation: 'El Boghdady M, Hardie J, Brennan PA, TED Collaborative Consensus. (2025). &quot;Theatre etiquette Delphi: the development of a guide on professional conduct and best practices in operating environments.&quot; <i>The Annals of The Royal College of Surgeons on England</i>. doi: 10.1308/rcsann.2025.0040. Epub ahead of print'
 ---
 
 Michael El Boghdady <sup>1,*</sup>, John Hardie <sup>2</sup>, Peter A Brennan <sup>3</sup>, TED Collaborative Group   
