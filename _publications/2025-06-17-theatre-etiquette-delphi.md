@@ -12,9 +12,9 @@ citation: 'El Boghdady M, Hardie J, Brennan PA, TED Collaborative Consensus. (20
 
 Michael El Boghdady <sup>1,*</sup>, John Hardie <sup>2</sup>, Peter A Brennan <sup>3</sup>, TED Collaborative Group   
 
-<sup>1</sup> St George's University Hospitals NHS Foundation Trust, UK  
-<sup>2</sup> University Hospital Southampton, UK. 
-<sup>3</sup> Portsmouth Hospitals University NHS Trust, UK.
+<sup>1</sup> St George's University Hospitals NHS Foundation Trust, UK.   
+<sup>2</sup> University Hospital Southampton, UK.  
+<sup>3</sup> Portsmouth Hospitals University NHS Trust, UK. 
 <sup>*</sup> Corresponding author: [michael.elboghdady@nhs.net](mailto:michael.elboghdady@nhs.net)  
 
 **Introduction:** The importance of non-technical skills (NTS) to surgical performance and patient safety has been increasingly recognised by surgical teams. Inductions for new surgical team members in theatre often provide insufficient, non-standard and 'ad hoc' training in theatre behaviour and etiquette. We conducted a Delphi consensus study among senior surgeons to develop standardised guidance on theatre etiquette for those unfamiliar with the theatre environment, including resident surgical trainees and medical students.
