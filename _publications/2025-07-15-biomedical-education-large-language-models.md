@@ -15,7 +15,7 @@ Shen-Han Lee <sup>1*</sup>
 <sup>1</sup> Department of Otorhinolaryngology–Head & Neck Surgery, School of Medical Sciences, Health Campus, Universiti Sains Malaysia, and Hospital Pakar Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia.
 <sup>*</sup> Corresponding author: [shen-han.lee@cantab.net](mailto:shen-han.lee@cantab.net)  
 
-For the 2025 Lasker Essay Content, the Lasker Foundation asked early-career scientists and health professionals to identify a specific innovation in education or training to help ensure a sustainable, inclusive, and successful future biomedical research workforce. My winning essay focused on how large language models have the potential to sustainably and inclusively scale biomedical education globally, but also risk creating a future biomedical workforce who lacks the ability to think critically and innovate.
+For the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/), the Lasker Foundation asked early-career scientists and health professionals to identify a specific innovation in education or training to help ensure a sustainable, inclusive, and successful future biomedical research workforce. My winning essay focused on how large language models have the potential to sustainably and inclusively scale biomedical education globally, but also risk creating a future biomedical workforce who lacks the ability to think critically and innovate.
 
 <b>Keywords</b>: Large Language Models; Artificial Intelligence; Biomedical Education; Lasker Essay.  
 
