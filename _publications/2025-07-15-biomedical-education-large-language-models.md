@@ -3,7 +3,7 @@ title: "Biomedical education in the era of large language models: a paradigm shi
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-15-biomedical-education-large-language-models
-excerpt: 'Read my prize-winning essay for the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/)'
+excerpt: 'Read my prize-winning essay for the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/).'
 date: 2025-06-17
 venue: 'The Journal of Clinical Investigation'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH_Journal of Clinical Investigation_2025.pdf'
@@ -15,9 +15,11 @@ Shen-Han Lee <sup>1*</sup>
 <sup>1</sup> Department of Otorhinolaryngology–Head & Neck Surgery, School of Medical Sciences, Health Campus, Universiti Sains Malaysia, and Hospital Pakar Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia.
 <sup>*</sup> Corresponding author: [shen-han.lee@cantab.net](mailto:shen-han.lee@cantab.net)  
 
-For the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/), the Lasker Foundation asked early-career scientists and health professionals to identify a specific innovation in education or training to help ensure a sustainable, inclusive, and successful future biomedical research workforce. My winning essay focused on how large language models have the potential to sustainably and inclusively scale biomedical education globally, but also risk creating a future biomedical workforce who lacks the ability to think critically and innovate.
+For the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/), the Lasker Foundation asked early-career scientists and health professionals to identify a specific innovation in education or training to help ensure a sustainable, inclusive, and successful future biomedical research workforce. 
 
-<b>Keywords</b>: Large Language Models; Artificial Intelligence; Biomedical Education; Lasker Essay.  
+My winning essay focused on how large language models have the potential to sustainably and inclusively scale biomedical education globally, but also risk creating a future biomedical workforce who lacks the ability to think critically and innovate.
+
+<b>Keywords</b>: Large Language Models; Artificial Intelligence; Biomedical Education; Lasker Essay  
 
 DOI: [10.1172/JCI196863](https://doi.org/10.1172/JCI196863)  
 
