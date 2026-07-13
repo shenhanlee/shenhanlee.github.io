@@ -33,3 +33,5 @@ Shen-Han Lee <sup>a,b,c</sup>, Rohaizam Jaafar <sup>c</sup>, Nurul Akmar Misron 
 <b>Keywords</b>: IgG4-related disease; case report; deep neck abscess; immunoglobulin G4; osteomyelitis; skull base.
 
 DOI: [10.1097/MD.0000000000043351](https://doi.org/10.1097/MD.0000000000043351)
+
+Copyright © 2025 the Author(s). Published by Wolters Kluwer Health, Inc.
