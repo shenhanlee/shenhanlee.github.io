@@ -3,11 +3,11 @@ title: "Glomangiopericytoma of the Infraorbital Region"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-09-glomangiopericytoma-infraorbital-region
-excerpt: ' We report an unusual case of a patient with glomangiopericytoma (a sinonasal soft tissue tumour) that grew in an unusual location, the infraorbital region of the face.'
+excerpt: ' We report an unusual case of a patient with glomangiopericytoma (a soft tissue tumour) that grew in an unusual location, the infraorbital region of the face.'
 date: 2025-08-09
 venue: 'Head and Neck Pathology'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Khalid MAF, Ahmad A, Omar N, Ramli RR_Head Neck Pathology_2025.pdf'
-citation: 'Lee SH, Khalid MAF, Ahmad A, Omar N, Ramli RR. (2025). &quot;Glomangiopericytoma of the Infraorbital Region.&quot; <i>Head and Neck Pathology</i>. 104(29):e43351.'
+citation: 'Lee SH, Khalid MAF, Ahmad A, Omar N, Ramli RR. (2025). &quot;Glomangiopericytoma of the Infraorbital Region.&quot; <i>Head and Neck Pathology</i>. 19(1):101.'
 ---
 
 Shen-Han Lee <sup>1,2</sup>, Mohamd Azizul Fitri Khalid <sup>3</sup>, Amirozi Ahmad <sup>3</sup>, Noorjehan Omar <sup>4</sup> , Ramiza Ramza Ramli <sup>1,2,*</sup>
