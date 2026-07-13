@@ -7,7 +7,7 @@ excerpt: ' Our perspective on how foundation models are catalysing insights in p
 date: 2026-01-01
 venue: 'Medical Journal of Malaysia'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Mohamad I_Medical Journal Malaysia_2026.pdf'
-citation: 'Lee SH, Mohamad I. (2026). &quot;Artificial intelligence foundation models in healthcare: A Malaysian perspective.&quot; <i>Medical Journal of Malaysia</i>. 19(1):101.'
+citation: 'Lee SH, Mohamad I. (2026). &quot;Artificial intelligence foundation models in healthcare: A Malaysian perspective.&quot; <i>Medical Journal of Malaysia</i>. 81(1):1-5.'
 ---
 
 Shen-Han Lee <sup>1</sup>, Irfan Mohamad <sup>1,2,*</sup>
