@@ -11,12 +11,12 @@ redirect_from:
 
 Education & Qualifications
 ======
-Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia (in progress)
-Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
-Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
-Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
-Master of Arts (MA), Christ's College, University of Cambridge, 2011
-Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007
+* Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia, <i>in progress</i>
+* Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
+* Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
+* Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
+* Master of Arts (MA), Christ's College, University of Cambridge, 2011
+* Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007
 
 Work Experience
 ======
@@ -48,8 +48,16 @@ Work Experience
   * Department of Bioengineering, Imperial College London
   * Supervisor: The late Professor Colin G. Caro
 
+Clinical Observership & Electives
+=====
+* March 2026: Clinical Observership in Head & Neck Surgical Oncology, The Royal Marsden Hospital, London, UK (Royal College of Surgeons of Edinburgh International Travelling Fellowship Award)
+* May 2014: Medical Student Elective, Head & Neck Surgery, Memorial Sloan-Kettering Cancer Center, New York, USA
+* October 2013: Medical Student Elective, Head & Heck Surgery, National Cancer Centre Singapore
+
 Academic Honours
 =====
+* 2025: Lasker Foundation Essay Contest Prize, The Albert & Mary Lasker Foundation, New York City, NY
+* 2025: The Royal College of Surgeons of Edinburgh International Travelling Fellowship for Clinical Observership in Head & Neck Surgical Oncology at The Royal Marsden Hospital, London  
 * 2023: Federal Training Award for Clinical Specialist Training in ORL-HNS, Ministry of Health, Malaysia
 * 2023: Elected to Full Membership of Sigma Xi, The Scientific Research Honor Society
 * 2008 - 2012: Cancer Research UK Graduate Studentship at the University of Cambridge
