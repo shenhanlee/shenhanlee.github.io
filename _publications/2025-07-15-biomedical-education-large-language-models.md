@@ -12,7 +12,7 @@ citation: 'Lee SH. (2025). &quot;Biomedical education in the era of large langua
 
 Shen-Han Lee <sup>1*</sup>   
 
-<sup>1</sup> Department of Otorhinolaryngology–Head & Neck Surgery, School of Medical Sciences, Health Campus, Universiti Sains Malaysia, and Hospital Pakar Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia.
+<sup>1</sup> Department of Otorhinolaryngology–Head & Neck Surgery, School of Medical Sciences, Health Campus, Universiti Sains Malaysia, and Hospital Pakar Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia.  
 <sup>*</sup> Corresponding author: [shen-han.lee@cantab.net](mailto:shen-han.lee@cantab.net)  
 
 For the [Lasker Foundation 2025 Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/), early-career scientists and health professionals were asked to "<i>identify a specific innovation in education or training to help ensure a sustainable, inclusive, and successful future biomedical research workforce</i>." 

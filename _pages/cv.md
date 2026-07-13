@@ -11,12 +11,12 @@ redirect_from:
 
 Education & Qualifications
 ======
-* Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia (in progress)
-* Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
-* Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
-* Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
-* Master of Arts (MA), Christ's College, University of Cambridge, 2011
-* Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007
+Master of Medicine, Otorhinolaryngology-Head & Neck Surgery (MMed ORL-HNS), Universiti Sains Malaysia (in progress)
+Intercollegiate Membership of the Royal College of Surgeons (MRCS), Surgery in General, 2018
+Bachelor of Medicine & Bachelor of Surgery (MBBS), Barts & The London School of Medicine & Dentistry, Queen Mary University of London, 2014
+Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
+Master of Arts (MA), Christ's College, University of Cambridge, 2011
+Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007
 
 Work Experience
 ======
@@ -26,7 +26,7 @@ Work Experience
 * Aug 2018 - May 2023: Medical Officer (ORL-HNS)
   * Hospital Sultanah Bahiyah, Ministry of Health, Malaysia
 
-* 2023 - 2018: Resident, General Surgery
+* 2014 - 2018: Resident, General Surgery
   * Singapore Health Services (SingHealth)
   * Clinical Rotations at Singapore General Hospital, Changi General Hospital & KK Women & Children's Hospital
 
