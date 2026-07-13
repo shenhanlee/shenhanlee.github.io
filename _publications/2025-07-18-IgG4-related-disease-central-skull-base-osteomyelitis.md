@@ -12,8 +12,7 @@ citation: 'Lee SH, Jaafar R, Misron NA, Yusof Z, Nik Othman NA. (2025). &quot;Ig
 
 Shen-Han Lee <sup>a,b,c</sup>, Rohaizam Jaafar <sup>c</sup>, Nurul Akmar Misron <sup>d</sup>, Zulkifli Yusof <sup>c</sup> , Nik Adilah Nik Othman <sup>a,b,*</sup>
 
-<sup>a</sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia
-<sup>b</sup> Hospital Pakar Universiti Sains Malaysia, Universiti Sains Malaysia, Health Campus, Kubang Kerian, Kelantan, Malaysia
+<sup>a</sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia<sup>b</sup> Hospital Pakar Universiti Sains Malaysia, Universiti Sains Malaysia, Health Campus, Kubang Kerian, Kelantan, Malaysia
 <sup>c</sup> Department of Otorhinolaryngology, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia
 <sup>d</sup> Department of Pathology, Hospital Sultanah Bahiyah, Alor Setar, Kedah, Malaysia
 <sup>*</sup> Corresponding author: [adilahkk@usm.my](mailto:adilahkk@usm.my)
