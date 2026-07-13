@@ -23,7 +23,7 @@ Work Experience
 * June 2023 - now: Resident, Otorhinolaryngology-Head & Neck Surgery (ORL-HNS)
   * School of Medical Sciences, Universiti Sains Malaysia
 
-* Aug 2018 - May 2023: Medical Officer (ORL-HNS)
+* Aug 2019 - May 2023: Medical Officer (ORL-HNS)
   * Hospital Sultanah Bahiyah, Ministry of Health, Malaysia
 
 * 2014 - 2018: Resident, General Surgery
