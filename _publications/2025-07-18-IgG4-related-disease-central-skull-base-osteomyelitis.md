@@ -3,7 +3,7 @@ title: "IgG4-related disease presenting as central skull base osteomyelitis with
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-18-IgG4-related-disease-central-skull-base-osteomyelitis
-excerpt: ' This is a case report of a difficult tracheostomy complicated by massive immediate bleeding from the innominate artery that required a median sternotomy for vascular access and control.'
+excerpt: ' This is the first case report of IgG4-related disease presenting as central skull base osteomyelitis with deep neck space abscesses .'
 date: 2025-07-18
 venue: 'Medicine'
 paperurl: 'https://shenhanlee.github.io/files/Lee SH, Jaafar R, Misron NA, Yusof Z, Nik Othman NA_Medicine_2025.pdf'
