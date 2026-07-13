@@ -17,6 +17,7 @@ Education & Qualifications
 * Doctor of Philosophy (PhD) in Oncology, Cancer Research UK Cambridge Institute & Hughes Hall, University of Cambridge, 2013
 * Master of Arts (MA), Christ's College, University of Cambridge, 2011  
 * Bachelor of Arts (BA)(Hons.), Preclinical Medicine, Medical & Natural Sciences (Pharmacology), Christ's College, University of Cambridge, 2007  
+
 Work Experience
 ======
 * June 2023 - now: Resident, Otorhinolaryngology-Head & Neck Surgery (ORL-HNS)
@@ -49,7 +50,7 @@ Work Experience
 
 Clinical Observership & Electives
 =====
-* March 2026: Clinical Observership in Head & Neck Surgical Oncology, The Royal Marsden Hospital, London, UK (Royal College of Surgeons of Edinburgh International Travelling Fellowship Award)
+* March 2026: Clinical Observership in Head & Neck Surgical Oncology, The Royal Marsden Hospital, London, UK 
 * May 2014: Medical Student Elective, Head & Neck Surgery, Memorial Sloan-Kettering Cancer Center, New York, USA
 * October 2013: Medical Student Elective, Head & Heck Surgery, National Cancer Centre Singapore
 
