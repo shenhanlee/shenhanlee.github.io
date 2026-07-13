@@ -12,10 +12,10 @@ citation: 'Lee SH, Khalid MAF, Ahmad A, Omar N, Ramli RR. (2025). &quot;Glomangi
 
 Shen-Han Lee <sup>1,2</sup>, Mohamd Azizul Fitri Khalid <sup>3</sup>, Amirozi Ahmad <sup>3</sup>, Noorjehan Omar <sup>4</sup> , Ramiza Ramza Ramli <sup>1,2,*</sup>
 
-<sup>a</sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia  
-<sup>b</sup> Hospital Pakar Universiti Sains Malaysia, Universiti Sains Malaysia, Health Campus, Kubang Kerian, Kelantan, Malaysia  
-<sup>c</sup> KPJ Penang Specialist Hospital, Bukit Mertajam, Pulau Pinang, Malaysia    
-<sup>d</sup> Lablink Medical Laboratory, Kuala Lumpur, Malaysia    
+<sup>1</sup> Department of Otorhinolaryngology, Head and Neck Surgery, School of Medical Sciences,  Universiti Sains Malaysia, Kubang Kerian, Kelantan, Malaysia  
+<sup>2</sup> Hospital Pakar Universiti Sains Malaysia, Universiti Sains Malaysia, Health Campus, Kubang Kerian, Kelantan, Malaysia  
+<sup>3</sup> KPJ Penang Specialist Hospital, Bukit Mertajam, Pulau Pinang, Malaysia    
+<sup>4</sup> Lablink Medical Laboratory, Kuala Lumpur, Malaysia    
 <sup>*</sup> Corresponding author: [ramizaramza@usm.my](mailto:ramizaramza@usm.my)    
 
 <b>Background</b>: Glomangiopericytomas are rare spindle cell neoplasms that typically arise within the sinonasal tract and exhibit borderline to low malignant potential. While unusual, occurrences of this tumor in other regions of the head and neck have been reported, such as the deep neck spaces, larynx, tongue, and middle ear.
