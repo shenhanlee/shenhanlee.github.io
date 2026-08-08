@@ -31,9 +31,9 @@ Throughout my PhD studies, I was also a visiting MB-PhD student at the [Cambridg
 
 # <b>Lasker Foundation Essay Contest & Interview with the Lasker Foundation</b>
 
-I was selected as one of four co-winners of the international [2025 Lasker Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/) for my essay entitled ["Biomedical Education In the Era of Large Language Models: A Paradigm Shift"](https://www.jci.org/articles/view/196863). 
+In 2025, I was selected as one of four co-winners of the international [Lasker Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/) for my essay entitled ["Biomedical Education In the Era of Large Language Models: A Paradigm Shift"](https://www.jci.org/articles/view/196863). 
 
-This prize was sponsored by the Lasker Foundation and included an invitation to attend the 2025 Lasker Awards Luncheon in New York City.
+This prize was sponsored by the Lasker Foundation, which included an invitation to attend the 2025 Lasker Awards Luncheon in New York City and publication of my essay in the Journal of Clinical Investigation.
 
 Here are the highlights of my interview with the Lasker Foundation:
 
