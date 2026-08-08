@@ -29,19 +29,22 @@ During my clinical studies, I was awarded a Cancer Research UK (CRUK) PhD Studen
 
 Throughout my PhD studies, I was also a visiting MB-PhD student at the [Cambridge MB-PhD](https://www.medschl.cam.ac.uk/clinical-school-mbphd-course-information) program, giving me the opportunity to combine medical training with doctoral research.  
 
-# <b>Lasker Foundation Essay Contest & Interview with the Lasker Foundation</b>
+# <b>Lasker Foundation Essay Contest</b>
 
 In 2025, I was selected as one of four co-winners of the international [Lasker Essay Contest](https://laskerfoundation.org/meet-winners-2025-essay-contest/) for my essay entitled ["Biomedical Education In the Era of Large Language Models: A Paradigm Shift"](https://www.jci.org/articles/view/196863). 
 
 This prize was sponsored by the Lasker Foundation, which included an invitation to attend the 2025 Lasker Awards Luncheon in New York City and publication of my essay in the Journal of Clinical Investigation.
 
-Here are the highlights of my interview with the Lasker Foundation:
+Here are highlights of my interview with the Lasker Foundation:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djtC7aogyiA?si=p0wZOUDVpkWxulqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## <b>Who inspires me as a scientist?</b>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/djtC7aogyiA?si=p0wZOUDVpkWxulqi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dqlfUzM1_cE?si=xViTeJzxCSso9BZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## <b>What is my favorite part about doing research?</b>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/dqlfUzM1_cE?si=xViTeJzxCSso9BZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jIL53902TAw?si=DqGmG25ZxE_y_Gue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## <b> What do I think is next in my field?</b>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/jIL53902TAw?si=DqGmG25ZxE_y_Gue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Thank you for visiting and exploring my website. Please feel free to contact me via [Email](mailto:shen-han.lee@cantab.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/shenhanlee/) or [X (formerly Twitter)](https://x.com/ShenHanLee) for any inquiries or potential future collaborations.  
 
